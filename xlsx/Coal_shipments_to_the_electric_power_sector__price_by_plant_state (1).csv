@@ -1,0 +1,8 @@
+"Coal shipments to the electric power sector: price, by plant state"
+"https://www.eia.gov/coal/data/browser/?agg=1,0&geo=vvvvvvvvvvvvo&freq=A&start=2005&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0#/topic/45?agg=1,0&geo=g&rank=g&freq=A&start=2008&end=2019&ctype=map&ltype=pin&rtype=s&pin=&rse=0&maptype=0"
+"Sat Jan 30 2021 22:20:02 GMT+0800 (中国标准时间)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"Coal shipments to the electric power sector: price, by plant state","$/short ton",,,,,,,,,,,,,
+"All coal","$/short ton","COAL.SHIP_PLANT_PRICE.US-TOT.A",,,,,,,,,,,,
+"All coal : United States","$/short ton","COAL.SHIP_PLANT_PRICE.US-TOT.A",40.69,43.33,44.27,46.24,45.77,45.02,45.67,42.60,40.64,39.18,39.16,38.64
